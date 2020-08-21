@@ -1,6 +1,6 @@
-# node-es6-babel
+# node uglify template
 
-### node uglify template
+### how to use
 ```
 npm install
 ```
