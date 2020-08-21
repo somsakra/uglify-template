@@ -1,3 +1,13 @@
 # node-es6-babel
 
-### node babel template
+### node uglify template
+```
+npm install
+```
+```
+npm run build
+```
+```
+npm run uglify
+```
+you can add deployment script and upload public folder to web hosting
