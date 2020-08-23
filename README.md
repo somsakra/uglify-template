@@ -14,7 +14,7 @@ build public folder with uglify
 ```
 npm run uglify
 ```
-you can add deployment script and upload public folder to web hosting
+you can add deployment by upload public folder to your hosting
 
 example
 ```
